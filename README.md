@@ -1,4 +1,4 @@
-### Collection of DEVOPS Related Things
+### Collection of boto code
 
-This Repo contains things I am testing to be usd in the cloud.
-
+The aim of this repo is to supply a reusable project which contains structured and well written code to be used with
+other boto projects
